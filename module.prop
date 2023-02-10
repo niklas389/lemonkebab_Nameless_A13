@@ -4,3 +4,4 @@ version=v1
 versionCode=1
 author=niklas389
 description=Removes Bloat and adds some features.
+updateJson=https://raw.githubusercontent.com/niklas389/lemonkebab_Nameless_A13/master/update.json
