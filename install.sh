@@ -55,9 +55,7 @@ REPLACE_EXAMPLE="
 REPLACE="
 /system/app/BasicDreams
 /system/app/BookmarkProvider
-/system/app/StagWalls
 /system/app/Traceur
-/system/app/PulseMusic
 /system/app/Stk
 /system/product/app/Chrome
 /system/product/app/Chrome-Stub
