@@ -1,4 +1,4 @@
-# Modpack for Nameless on Android 13
+# Modpack for OnePlus 8T/9R Nameless on Android 13
 
 [> Download <](https://github.com/niklas389/kb2003_R_modpack/releases/latest)
 
