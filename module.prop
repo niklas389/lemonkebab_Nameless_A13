@@ -1,7 +1,7 @@
 id=niklas389_nameless_lemonkebab
 name=ModPack for Nameless A13 (OnePlus 8T/9R)
-version=v1
-versionCode=1
+version=10002
+versionCode=1.0.2
 author=niklas389
 description=Removes Bloat and adds some features.
 updateJson=https://raw.githubusercontent.com/niklas389/lemonkebab_Nameless_A13/master/update.json
