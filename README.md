@@ -1,4 +1,4 @@
-# Modpack for OnePlus 8T/9R Nameless on Android 13
+# Magisk Module for OnePlus 8T/9R running Nameless AOSP on Android 13
 
 [> Download <](https://github.com/niklas389/lemonkebab_Nameless_A13/releases/latest)
 
@@ -12,3 +12,4 @@
 - Blurred Background (Notification shade)
 - Some Play Services disabled.
     --> You won't get an AdId after installing this mod. This may break some Apps/Games.
+- Faster animations by default (0.65)
