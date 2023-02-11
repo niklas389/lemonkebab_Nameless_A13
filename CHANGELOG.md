@@ -1,7 +1,5 @@
 # v1.1.0
 
-## Highlights
-
 - removed Bootanimation
 - removed Emoji  
 
