@@ -4,9 +4,7 @@
 
 ## Features
 
-- iOS 16 Emojis
 - Some Google Play Services will be disabled on boot (see below)
-- H²OS Bootanimation
 - Disabled unnecessary OnePlus & Google Apps
 - Multiuser will be disabled automatically (Can be enabled in Settings)
 - Blurred Background (Notification shade)
