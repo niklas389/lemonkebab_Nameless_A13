@@ -4,4 +4,4 @@ version=10100
 versionCode=1.1.0
 author=niklas389
 description=Removes Bloat and adds some features.
-updateJson=https://raw.githubusercontent.com/niklas389/lemonkebab_Nameless_A13/master/updater.json
+updateJson=https://raw.githubusercontent.com/niklas389/lemonkebab_Nameless_A13/master/update.json
